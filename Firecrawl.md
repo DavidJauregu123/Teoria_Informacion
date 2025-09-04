@@ -46,9 +46,10 @@ Ejecuta en tu terminal:
 
 ```bash
 pip install firecrawl
-
-
-### 1. Vamos a utilizar
+````
+### 2. En este caso utilizamos estos código de prueba utilizando la API, que creamos con anterioridad. 
+- Código de Scrapeo:
+- Código de Mapeo: 
 
 
 
