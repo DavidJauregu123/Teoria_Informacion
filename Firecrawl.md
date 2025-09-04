@@ -48,6 +48,8 @@ Ejecuta en tu terminal:
 pip install firecrawl
 
 
+### 1. Vamos a utilizar
+
 
 
 
