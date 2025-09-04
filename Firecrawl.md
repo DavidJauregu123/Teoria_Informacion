@@ -56,7 +56,7 @@ Corremos el código en cualquier ambiente de desarrollo que tu elijas, en este c
 
 
 Te deberia quedar asi:
-- Código de Scrapeo: https://github.com/DavidJauregu123/Teoria_Informacion/blob/c42845ad925ed2dec290453a62bbf087aeeded11/captura%20de%20mapeo.png
+- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/c42845ad925ed2dec290453a62bbf087aeeded11/captura%20de%20mapeo.png) 
 - 
 
 
