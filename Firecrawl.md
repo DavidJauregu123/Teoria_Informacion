@@ -59,11 +59,13 @@ Te deberia quedar asi:
 - ![Captura de pantalla del Scrapeo](https://github.com/DavidJauregu123/Teoria_Informacion/blob/c42845ad925ed2dec290453a62bbf087aeeded11/captura%20de%20mapeo.png) 
 - ![Captura de pantalla del Mapeo](https://github.com/DavidJauregu123/Teoria_Informacion/blob/1ac0b29a335819eb69e57b8a61c7dafca0066b90/captura%20de%20mapeo.png)
 
-### 4. Corremos los codigos en la terminal, y te deberia aparecer en la pagina de Firecrawl en la sección de Activity Logs, 
+### 4. Corremos los codigos en la terminal, y te deberia aparecer en la pagina de Firecrawl en la sección de Activity Logs.
 
 Al realizar los llamados a la API, es importante que los resultados se muestren correctamente en tu sesión de Firecrawl iniciada, donde podrás visualizar los datos extraídos.
 
-- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/363134fe895140a7122b535e8e32ef47c0f3ea03/Activity%20Logs.png) 
+- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/363134fe895140a7122b535e8e32ef47c0f3ea03/Activity%20Logs.png)
+
+Descargas los archivos en formato MD o JSON. Y listo, ya hiciste tus primeros dos ejercicios utilizando la API de Firecrawl, una excelente herramienta para poder scrapear, y mapear de manera eficiente.
 
 
   
