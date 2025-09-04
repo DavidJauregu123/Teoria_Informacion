@@ -48,8 +48,17 @@ Ejecuta en tu terminal:
 pip install firecrawl
 ````
 ### 2. En este caso utilizamos estos código de prueba utilizando la API, que creamos con anterioridad. 
-- Código de Scrapeo:
-- Código de Mapeo: 
+- Código de Scrapeo: (https://github.com/DavidJauregu123/Teoria_Informacion/blob/04536ab51a5b73865cb1e659ff75f07a7ef5f7b5/scrapeo.py).
+- Código de Mapeo: (https://github.com/DavidJauregu123/Teoria_Informacion/blob/04536ab51a5b73865cb1e659ff75f07a7ef5f7b5/mapeo.py).
+
+### 3. Copia y pega estos codigos. (RECUERDA UTILIZAR TU PROPIO API KEY❗❗❗)
+Corremos el código en cualquier ambiente de desarrollo que tu elijas, en este caso utilizaremos Visual Code: 
+
+
+Te deberia quedar asi:
+
+
+  
 
 
 
