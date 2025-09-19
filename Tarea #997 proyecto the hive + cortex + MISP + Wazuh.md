@@ -472,9 +472,15 @@ Cortex: http://localhost:9001
 
 Login: admin | admin
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+HIVE:
 - ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/b6f4ebaa60ffd990d017ea05cff089057ca781fa/Captura%20de%20pantalla%202025-09-18%20223111.png)
 
-- - ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/b6f4ebaa60ffd990d017ea05cff089057ca781fa/Captura%20de%20pantalla%202025-09-18%20223122.png)
+CORTEX:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/b6f4ebaa60ffd990d017ea05cff089057ca781fa/Captura%20de%20pantalla%202025-09-18%20223122.png)
 
 
 
