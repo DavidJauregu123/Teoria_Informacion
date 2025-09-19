@@ -444,6 +444,32 @@ networks:
 
 ```
 
+### 6. Ya luego de tener todo eso, ya se puede levantar con el siguiente código:
 
+```bash
+`docker-compose up -d`
+```
+
+### 7. Luego de tener todo eso ya podemos meternos para comprobar que todo este bien:
+
+- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/94cc9d5d9e5e9ff8b6476777a92c368f48d02b9c/Captura%20de%20pantalla%202025-09-18%20222324.png)
+
+### 8. Colaboramos que todas las paginas esten funcionando:
+
+Wazuh Dashboard: https://<docker-host-ip>:8443
+
+Login: admin | SecretPassword
+
+MISP: https://<docker-host-ip>
+
+Login: admin@admin.test | admin
+
+The Hive: http://localhost:9000
+
+Login: admin@thehive.local | secret
+
+Cortex: http://localhost:9001
+
+Login: admin | admin
 
 
