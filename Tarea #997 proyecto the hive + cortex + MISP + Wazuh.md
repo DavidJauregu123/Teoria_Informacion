@@ -1,4 +1,4 @@
-# Proyecto: Integración de TheHive, Cortex, MISP, Wazuh
+<img width="2550" height="1600" alt="image" src="https://github.com/user-attachments/assets/ecd155a8-0cf1-4899-af39-803209533b94" /># Proyecto: Integración de TheHive, Cortex, MISP, Wazuh
 
 ## Descripción General
 
@@ -472,7 +472,9 @@ Cortex: http://localhost:9001
 
 Login: admin | admin
 
+- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/b6f4ebaa60ffd990d017ea05cff089057ca781fa/Captura%20de%20pantalla%202025-09-18%20223111.png)
 
+- - ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/b6f4ebaa60ffd990d017ea05cff089057ca781fa/Captura%20de%20pantalla%202025-09-18%20223122.png)
 
 
 
