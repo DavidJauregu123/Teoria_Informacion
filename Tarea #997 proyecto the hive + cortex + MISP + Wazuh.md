@@ -488,5 +488,5 @@ MISP:
 WAZUH:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/45f101de766b2d5a5b7ca185b8b27bec9f578ceb/Captura%20de%20pantalla%202025-09-19%20001832.png)
 
