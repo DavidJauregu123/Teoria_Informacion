@@ -1,0 +1,27 @@
+# Proyecto: Integración de TheHive, Cortex, MISP, Wazuh
+
+## Descripción General
+
+En este proyecto se va a desplegar una infraestructura de seguridad utilizando herramientas de código abierto como **Wazuh**, **TheHive**, **Cortex** y **MISP**. Estas herramientas permiten la monitorización de seguridad, la gestión de incidentes, el análisis de indicadores de compromiso (IOCs) y la inteligencia de amenazas.
+
+Las herramientas a instalar y configurar son:
+- **Wazuh**: Para monitorización de seguridad, detección de amenazas y análisis de logs.
+- **TheHive**: Para la gestión de incidentes y casos de seguridad.
+- **Cortex**: Para el análisis automático de observables e indicadores de compromiso (IOCs).
+- **MISP**: Para la gestión y compartición de inteligencia de amenazas.
+
+Con esta combinación, obtenemos **capacidades de seguridad de nivel profesional** que en productos comerciales costarían miles de dólares.
+
+## Requisitos Previos
+
+- Docker debe estar instalado en el sistema.
+- Tener acceso a la terminal para ejecutar los comandos de Docker.
+
+## Proceso de Instalación
+
+### 1. Clonar el Repositorio de Wazuh para Docker
+
+Clonar el repositorio de Wazuh para Docker desde GitHub para facilitar la instalación.
+
+```bash
+git clone https://github.com/wazuh/wazuh-docker.git
