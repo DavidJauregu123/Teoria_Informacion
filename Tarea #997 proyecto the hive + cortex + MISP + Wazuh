@@ -14,14 +14,14 @@ Con esta combinación, obtenemos **capacidades de seguridad de nivel profesional
 
 ## Requisitos Previos
 
-- Docker debe estar instalado en el sistema.
+- **Docker** debe estar instalado en el sistema.
 - Tener acceso a la terminal para ejecutar los comandos de Docker.
 
 ## Proceso de Instalación
 
 ### 1. Clonar el Repositorio de Wazuh para Docker
 
-Clonar el repositorio de Wazuh para Docker desde GitHub para facilitar la instalación.
+Primero, debemos clonar el repositorio de Wazuh para Docker desde GitHub para facilitar la instalación:
 
 ```bash
 git clone https://github.com/wazuh/wazuh-docker.git
