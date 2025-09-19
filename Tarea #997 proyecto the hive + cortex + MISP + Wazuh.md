@@ -1,4 +1,4 @@
-<img width="2550" height="1600" alt="image" src="https://github.com/user-attachments/assets/ecd155a8-0cf1-4899-af39-803209533b94" /># Proyecto: Integración de TheHive, Cortex, MISP, Wazuh
+# Proyecto: Integración de TheHive, Cortex, MISP, Wazuh
 
 ## Descripción General
 
