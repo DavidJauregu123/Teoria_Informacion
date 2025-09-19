@@ -25,3 +25,11 @@ Primero, debemos clonar el repositorio de Wazuh para Docker desde GitHub para fa
 
 ```bash
 git clone https://github.com/wazuh/wazuh-docker.git
+```
+
+### 2. Luego de tenerlo clonado, hay que ubicarnos en la ubicación de los archivos en un cmd tradicional
+
+- ![Captura de pantalla](https://github.com/DavidJauregu123/Teoria_Informacion/blob/1e73ae77954e3e31851e0095899279791222bf40/Captura%20de%20pantalla%202025-09-18%20215826.png).
+
+
+
